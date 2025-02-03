@@ -1,5 +1,8 @@
 p{
     color: red;
     background-color: white;
+    display: flex;
+    justify-content:  center;
+    
 
 }
